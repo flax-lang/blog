@@ -1,3 +1,5 @@
 _site
 .sass-cache
 .jekyll-metadata
+codealike.json
+flax-blog.code-workspace
