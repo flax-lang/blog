@@ -1,18 +1,10 @@
 ---
 layout: post
 title: About
+author: zhiayang
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This site is mainly a formalisation of the (in)famous `rants.md`. Here, we discuss past, present and future developments of [Flax](https://github.com/flax-lang/flax).
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Occasionally there'll be other things as well, but mostly programming-related, and likely programming-language-related, topics.

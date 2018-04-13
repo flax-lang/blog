@@ -1,0 +1,13 @@
+---
+---
+@import "{{ site.theme }}";
+
+.post {
+	&-title {
+		font-size: 2.8rem;
+	}
+}
+
+pre code {
+	font-size: 15px;
+}
