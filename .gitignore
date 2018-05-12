@@ -3,3 +3,4 @@ _site
 .jekyll-metadata
 codealike.json
 flax-blog.code-workspace
+vendor
