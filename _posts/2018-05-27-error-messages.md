@@ -65,7 +65,7 @@ definition (because most frequently things are *called* wrongly), but it was a d
 display the errors associated with each candidate at one call site context?
 
 Behold, in true 16-colours:
-{{ "/assets/error-message-screenshot.png" | absolute-url }}
+![behold]({{ "/assets/error-message-screenshot.png" | absolute-url }})
 
 Currently work is in progress to refactor the rest of our error reporting suite to be more robust and more configurable in terms of output.
 
