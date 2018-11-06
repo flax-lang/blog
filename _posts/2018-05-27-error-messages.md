@@ -3,7 +3,7 @@ layout: post
 author: zhiayang
 title:  "Error Messages"
 date:   2018-05-27 1400 +0800
-categories: flax generics
+categories: flax errors
 ---
 
 While I'm procrastinating more important features of the compiler, I've decided to revamp the compiler error output facilities. A few commits ago, all
